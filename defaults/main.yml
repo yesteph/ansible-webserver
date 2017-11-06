@@ -1,0 +1,4 @@
+repository: https://github.com/yesteph/basic-ec2-php.git
+
+# this is the sha1sum of V1 of the test webapp.
+webapp_version: 25978f7c129839156d0e7c91ef19500e85c7dceb
